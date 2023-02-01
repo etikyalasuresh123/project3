@@ -1,0 +1,8 @@
+.display {
+    display: none;
+  }
+      
+  .block:hover + .display {
+    display: block;
+    color: green;
+  }
